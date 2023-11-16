@@ -11,4 +11,4 @@ const userFavcolor=(prompt("Inserisci il tuo colore preferito"));
 document.getElementById("boh").innerHTML= userName+userSurname+userFavcolor + userFavnumber;
 
 // VERIFICA TRAMITE CONSOLE
-console.log(userName+userSurname+userFavcolor + userFavnumber);
+// console.log(userName+userSurname+userFavcolor + userFavnumber);
